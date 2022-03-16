@@ -4,7 +4,7 @@ class Calculator
 		int a = 20;
 		int b = 2; //Tugas 4
 
-			Console.WriteLine("Hasil pengurangan {0} + {1} = {2}",a ,b, Pengurangan(a,b));
+	    Console.WriteLine("Hasil pengurangan {0} + {1} = {2}",a ,b, Pengurangan(a,b));
             Console.WriteLine("Hasil pengurangan {0} - {1} = {2}",a ,b, Pengurangan(a,b));
 
             Console.WriteLine("\n Tekan sembarang tombol untuk keluar");
